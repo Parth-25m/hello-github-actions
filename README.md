@@ -2,4 +2,6 @@
 
 This course will walk you through writing your first action and using it with a workflow file. 
 
+![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
+
 **Ready to get started? Navigate to the first issue.**
